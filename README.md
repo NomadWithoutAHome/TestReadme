@@ -1,7 +1,7 @@
 
 # Blender Geo Nodes
 
-A collection of 8 nodes that you may use it in your project to make awesome effects.
+A collection of 8 nodes that you may use in your project to make awesome effects.
 
 # How to use the Geo Nodes
 
@@ -21,7 +21,7 @@ Drag the weld modifier from your library onto a cube this will be the object tha
 Options | Description
 --- | --- 
 **Minimum**| `controls the minimum size range of the welding bubbles that appear ` 
-**Maximum**| `controls the Maximumsize range of the welding bubbles that appear ` 
+**Maximum**| `controls the Maximum size range of the welding bubbles that appear ` 
 
 > Be careful with these if you go too far it can look bad.
 
@@ -56,3 +56,14 @@ Remnels Notes:
 ## Screenshots
 
 ![App Screenshot](https://i.imgur.com/k0V1RUJ.png)
+
+## Crystal Cluster
+#### Information
+---
+Drag the modifier from your library onto a mesh.  This becomes your cluster.
+I included some example crystal models for this.  If you want to use your own you can delete them. Any mesh you put into the target collection will be randomly clustered together at your object origin. I used crystals but you can use any mesh.
+
+## Screenshots
+
+![App Screenshot](https://i.imgur.com/RCGYdaW.png)
+
