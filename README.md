@@ -25,7 +25,7 @@ Options | Description
 
 > Be careful with these if you go too far it can look bad.
 
-## Screenshots
+## Example
 
 ![App Screenshot](https://i.imgur.com/tmr0GMc.png)
 
@@ -53,7 +53,7 @@ Remnels Notes:
 * Set the fray length to 0 to have nice smooth rope.
 * Thread material is useful if you want ropes made out of metal, webbing or vines.
 
-## Screenshots
+## Example
 
 ![App Screenshot](https://i.imgur.com/k0V1RUJ.png)
 
@@ -63,7 +63,7 @@ Remnels Notes:
 Drag the modifier from your library onto a mesh.  This becomes your cluster.
 I included some example crystal models for this.  If you want to use your own you can delete them. Any mesh you put into the target collection will be randomly clustered together at your object origin. I used crystals but you can use any mesh.
 
-## Screenshots
+## Example
 
 ![App Screenshot](https://i.imgur.com/RCGYdaW.png)
 
@@ -81,6 +81,25 @@ Options | Description
 **Object Maximum**| `changes the maximum distance apart any two growths can be.`
 **random direction**| `can be turned off to make the growths follow the direction of the face they're growing on.`  
 
-## Screenshots
+## Example
 
 ![App Screenshot](https://i.imgur.com/UjDV31b.png)
+## Vine
+#### Information
+---
+Drag the modifier from your library onto a curve or object this will determine what the leaves grow from. The vine will follow any points you draw. The leaves generate from their origin point. I included an example leaf mesh but you can change it to anything you want growing off the vine.
+
+Options | Description
+--- | --- 
+**Vine thickness**| `It changes the radius of your vine.` 
+**Leaf amount**| `how many leaf meshes appear on your vine.` 
+**Leaf size**| `changes the size of your leaf mesh growing on the vine.` 
+
+> Leaf and vine material will change the materials assigned to your vines
+
+Remnels Notes:
+*  Vine thickness only applies if you use a curve.
+
+## Example
+
+![App Screenshot](https://i.imgur.com/lEULgUz.png)
