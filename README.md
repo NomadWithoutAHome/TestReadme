@@ -103,3 +103,25 @@ Remnels Notes:
 ## Example
 
 ![App Screenshot](https://i.imgur.com/lEULgUz.png)
+## Tentacle
+#### Information
+---
+Drag the modifier from your library onto a curve.  This will become the shape your tentacle follows.
+
+> CURRENTLY YOU CANNOT ADD A NEW BEGINNING OR END POINT.  IF YOU WANT MORE POINTS YOU MUST EXTRUDE FROM POINTS IN THE MIDDLE.
+
+Options | Description
+--- | --- 
+**Tentacle Material**| `sets the material of the tentacle.` 
+**Tentacle extend**| `allows you to animate the tentacle distance along the curve.` 
+**Tentacle thickness**| `adjusts the radius of the tentacle.` 
+**Sucker Radius**| `changes how much of the tentacle has suckers on it.` 
+**Sucker Length**| `sets how far in or out the suckers go.` 
+**Sucker Density**| `changes how many suckers are packed into the section of tentacle.` 
+
+Remnels Notes:
+*  The tentacle will animate wiggle and pulse if you hit play.  To set it up for rigging convert the curve to a mesh.
+
+## Example
+
+![App Screenshot](https://i.imgur.com/25Ri2C3.png)
