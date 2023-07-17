@@ -67,3 +67,20 @@ I included some example crystal models for this.  If you want to use your own yo
 
 ![App Screenshot](https://i.imgur.com/RCGYdaW.png)
 
+
+## Crystal Growth
+#### Information
+---
+Drag the modifier from your library onto a mesh.  This will be what the crystals grow from. Select any object you want and it will grow from the mesh.  You can have two different objects that will grow. You can limit the growth areas by using vertex groups.
+
+Options | Description
+--- | --- 
+**Body material**| `lets you set the material of the object the crystals grow from.` 
+**Object Density**| `how many instances of your first object will appear on the target`  
+**Object Minimum**| `changes the minimium distance apart any two growths can be.` 
+**Object Maximum**| `changes the maximum distance apart any two growths can be.`
+**random direction**| `can be turned off to make the growths follow the direction of the face they're growing on.`  
+
+## Screenshots
+
+![App Screenshot](https://i.imgur.com/UjDV31b.png)
