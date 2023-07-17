@@ -144,3 +144,22 @@ Options | Description
 ## Example
 
 ![App Screenshot](https://i.imgur.com/DwHHwSw.png)
+
+## Scales
+#### Information
+---
+Drag the modifier from your library onto an object.  This is what the scales will generate on.  They are scaled to match the face they generate on, so more geometry = more scales.
+
+Options | Description
+--- | --- 
+**Scale size**| `adjusts the scale of the individual scales.` 
+**Tilt**| `adjusts the X rotation of the scales.` 
+**Swivel**| `adjusts the Y rotation of the scales.` 
+**Rotation**| `adjusts the Z rotation of the scales.` 
+**Scales model**| `the model that will be generated on the faces.`
+**Scales depth**| `adjusts the thickness of the scale mesh.` 
+**ScaleVertexGroup**| `allows you to isolate the area of mesh the scales generate on.` 
+
+## Example
+
+![App Screenshot](https://i.imgur.com/JQcMKIt.jpeg)
