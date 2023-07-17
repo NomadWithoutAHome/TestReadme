@@ -125,3 +125,22 @@ Remnels Notes:
 ## Example
 
 ![App Screenshot](https://i.imgur.com/25Ri2C3.png)
+
+## Stitching
+#### Information
+---
+Drag the modifer from your library onto an object and then create a curve to assign to the stitch curve box, the stitches will now generate along the curve and pull the mesh tight around them if you have enough geometry.
+
+
+Options | Description
+--- | --- 
+**Stitch scale**| `adjusts how big the individual stitches are.` 
+**Stitch radius**| `adjusts how thick the individual stitches are.` 
+**Stitch offset**| `adjusts how far off the mesh your stitches will be. The spaces between stitches will still go under the surface.` 
+**Stitch curve**| `tells the nodes which curve to follow.` 
+**Stitch material**| `changes the color and material settings of the curve.`
+**Stitch spacing**| `adjusts how far apart the individual stitches are.` 
+
+## Example
+
+![App Screenshot](https://i.imgur.com/DwHHwSw.png)
